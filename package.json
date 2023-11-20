@@ -1,0 +1,38 @@
+{
+    "name": "image-particles-animation",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@typescript-eslint/eslint-plugin": "^6.11.0",
+        "@typescript-eslint/parser": "^6.11.0",
+        "eslint": "^8.54.0",
+        "prettier": "^3.1.0",
+        "typescript": "^5.2.2",
+        "vite": "^5.0.0"
+    },
+    "prettier": {
+        "printWidth": 100,
+        "semi": false,
+        "bracketSameLine": false,
+        "trailingComma": "all",
+        "tabWidth": 2,
+        "singleQuote": false,
+        "jsxSingleQuote": false,
+        "bracketSpacing": true,
+        "arrowParens": "always",
+        "singleAttributePerLine": false,
+        "customAttributes": [
+            "className"
+        ],
+        "customFunctions": [
+            "classNames"
+        ],
+        "plugins": []
+    }
+}
