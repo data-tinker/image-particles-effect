@@ -1,5 +1,5 @@
 # Image Particle Effect
-The image is divided into particles that move away from the mouse pointer, [demonstration](https://image-particle-animation.vercel.app/)  
+The image is divided into particles that move away from the mouse pointer, [demonstration](https://image-particle-effect.vercel.app/)  
   
 <img src="https://github.com/ttymonkey/image-particle-animation/blob/main/showcase.gif" width="300"/>
   
