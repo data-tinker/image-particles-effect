@@ -1,3 +1,9 @@
 # Image Particle Animation
-The image is divided into particles that move away from the mouse pointer: 
+The image is divided into particles that move away from the mouse pointer, [demonstration](https://image-particle-animation.vercel.app/)
 
+## Starting the development server
+1. Install the necessary dependencies:
+   `npm install`
+2. Run the development server:
+   `vite`
+3. Open [http://localhost:5173/](http://localhost:5173/) in your browser to view the website
