@@ -1,7 +1,7 @@
 # Image Particle Effect
 The image is divided into particles that move away from the mouse pointer, [demo](https://image-particle-effect.vercel.app/)  
   
-<img src="https://github.com/tty-monkey/image-particle-animation/blob/main/showcase.gif" width="300"/>
+<img src="https://github.com/tty-monkey/image-particle-effect/blob/main/showcase.gif" width="300"/>
   
 ## Starting the development server
 1. Install the necessary dependencies:
